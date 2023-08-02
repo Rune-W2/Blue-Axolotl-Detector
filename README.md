@@ -11,3 +11,8 @@ The mod currently only works client side meaning that it only works on a single 
 # Building from source
 
 Clone this repository and run ./gradlew build. The .jar file will be in Blue-Axolotl-Detector-1.20.X/build/libs.
+
+# Prerequisites
+
+You will need the latest release of the fabric loader which is available here: https://fabricmc.net/use/installer/
+You also need the latest release of the fabric api for version 1.20.1 available here: https://www.curseforge.com/minecraft/mc-mods/fabric-api/files
