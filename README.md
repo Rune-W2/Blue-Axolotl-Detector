@@ -16,7 +16,7 @@ This is the Official Page for the Blue Axolotl Detector Mod. This mod was made i
 # Building from source
 1. Clone the repository
    ```
-   [git clone https://github.com/Earthcomputer/clientcommands](https://github.com/Rune-W2/Blue-Axolotl-Detector.git](https://github.com/Rune-W2/Blue-Axolotl-Detector.git)
+   git clone https://github.com/Rune-W2/Blue-Axolotl-Detector.githttps://github.com/Rune-W2/Blue-Axolotl-Detector.git
    cd Blue-Axolotl-Detector
    ```
 1. Build the .jar file
