@@ -51,6 +51,6 @@ This mod implements a /bad (blueaxolotldetector) command to the game that scans 
    ```
    The mod JAR may be found in the `build/libs` directory
 1. [Create a pull request](https://help.github.com/en/articles/creating-a-pull-request)
-   so that your changes can be integrated into clientcommands
+   so that your changes can be integrated into Blue-Axolotl-Detector
    - Note: for large contributions, create an issue before doing all that
      work, to ask whether your pull request is likely to be accepted
