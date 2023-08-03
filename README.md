@@ -13,7 +13,10 @@ The mod is a simple mod that adds a /bad (blue axolotl detector) command into th
    git clone https://github.com/Earthcomputer/clientcommands](https://github.com/Rune-W2/Blue-Axolotl-Detector.git
    cd Blue-Axolotl-Detector
    ```
-Clone this repository and run ./gradlew build. The .jar file will be in /build/libs.
+1. Build the .jar file
+   ```
+   ./gradlew build
+   ```
 
 # Usage 
 
