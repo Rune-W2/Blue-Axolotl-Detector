@@ -22,6 +22,7 @@ This is the Official Page for the Blue Axolotl Detector Mod. This mod was made i
 1. Build the .jar file
    ```
    ./gradlew build
+   gradlew build if in Windows cmd
    ```
 File will be in /build/libs/
 
