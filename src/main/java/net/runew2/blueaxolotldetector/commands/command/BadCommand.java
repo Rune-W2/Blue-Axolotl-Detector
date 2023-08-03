@@ -97,7 +97,7 @@ public class BadCommand {
         if (blueAxolotlFound) {
             client.player.sendMessage(Text.of("Blue axolotl detected!"), false);
         } else {
-            client.player.sendMessage(Text.of("No blue axolotl detected."), false);
+            // client.player.sendMessage(Text.of("No blue axolotl detected."), false);
         }
     }
 }
