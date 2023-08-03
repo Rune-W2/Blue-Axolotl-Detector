@@ -1,4 +1,4 @@
-# Blue-Axolotl-Detector-1.20.X
+# Blue-Axolotl-Detector-1.20.1
 
 This is the Official Page for the Blue Axolotl Detector Mod. This mod was made in collaboration with iiqv at https://github.com/iiqv.
 This mod is our first Minecraft mod that we've worked on and it is currently in development.
