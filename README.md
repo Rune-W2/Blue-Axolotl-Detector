@@ -10,7 +10,7 @@ This is the Official Page for the Blue Axolotl Detector Mod. This mod was made i
      or an old version of Minecraft.
 1. Download the [Fabric API](https://minecraft.curseforge.com/projects/fabric)
    and move it to the mods folder (`.minecraft/mods`).
-1. Download Blue-Axolotl-Detector from the [[releases page](https://github.com/Earthcomputer/clientcommands/releases)](https://github.com/Rune-W2/Blue-Axolotl-Detector/releases)
+1. Download Blue-Axolotl-Detector from the [releases page](https://github.com/Earthcomputer/clientcommands/releases)(https://github.com/Rune-W2/Blue-Axolotl-Detector/releases)
    and move it to the mods folder (`.minecraft/mods`).
 
 # Building from source
