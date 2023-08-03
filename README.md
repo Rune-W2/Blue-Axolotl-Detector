@@ -21,7 +21,7 @@ File will be in /build/libs/
 
 # Usage 
 
-This mod implements a /bad (blueaxolotldetector) command to the game that scans for a blue axolotl around the player. The /bad command also works on servers too for all releases v1.0.0 and above.
+This mod implements a /bad (blueaxolotldetector) command to the game that scans for a blue axolotl around the player. The /bad command also works on servers too for all releases.
 
 # Prerequisites
 
