@@ -17,6 +17,6 @@ This mod implements a /bad (blueaxolotldetector) command to the game that scans 
 
 # Prerequisites
 
-You will need the latest release of the fabric loader which is available here: https://fabricmc.net/use/installer/
+You will need the latest release of the fabric loader for Minecraft version 1.20.1 which is available here: https://fabricmc.net/use/installer/ make sure to install the version for Minecraft 1.20.1
 
 You also need the latest release of the fabric api for version 1.20.1 available here: https://www.curseforge.com/minecraft/mc-mods/fabric-api/files
