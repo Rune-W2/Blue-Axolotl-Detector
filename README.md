@@ -1,4 +1,4 @@
-# Blue-Axolotl-Detector-1.20.1
+# Blue-Axolotl-Detector
 Simple mod that adds a /bad (blue axolotl detector) command into the game that scans for any blue axolotl's around the player and will send a private message to the player if it detects a blue axolotl.
 
 ## Installation
