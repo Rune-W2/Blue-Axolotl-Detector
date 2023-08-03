@@ -17,7 +17,7 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-          "net.runew2.blueaxolotldetector.BlueAxolotlDetector"
+			"net.runew2.blueaxolotldetector.BlueAxolotlDetector"
 		],
 		"client": [
 			"net.runew2.blueaxolotldetector.BlueAxolotlDetectorClient"
