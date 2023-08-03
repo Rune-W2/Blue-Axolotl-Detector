@@ -28,9 +28,3 @@ File will be in /build/libs/
 # Usage 
 
 This mod implements a /bad (blueaxolotldetector) command to the game that scans for a blue axolotl around the player. The /bad command also works on servers too for all releases.
-
-# Prerequisites
-
-You will need the latest release of the fabric loader for Minecraft version 1.20.1 which is available here: https://fabricmc.net/use/installer/ make sure to install the version for Minecraft 1.20.1
-
-You also need the latest release of the fabric api for version 1.20.1 available here: https://www.curseforge.com/minecraft/mc-mods/fabric-api/files
