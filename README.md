@@ -6,7 +6,7 @@ This mod is our first Minecraft mod that we've worked on and it is currently in 
 # About
 
 The mod is a simple mod that adds a /bad (blue axolotl detector) command into the game that scans for any blue axolotl's around the player and will send a private message to the player if it detects a blue axolotl.
-The mod currently only works client side meaning that it only works on a single player world the user has made themselves.
+The mod currently only works on a single player world the user has made themselves.
 
 # Building from source
 
