@@ -13,7 +13,7 @@ This is the Official Page for the Blue Axolotl Detector Mod. This mod was made i
 1. Download Blue-Axolotl-Detector from the [releases page](https://github.com/Rune-W2/Blue-Axolotl-Detector/releases)
    and move it to the mods folder (`.minecraft/mods`).
 
-# Building from source
+## Building from source
 1. Clone the repository
    ```
    git clone https://github.com/Rune-W2/Blue-Axolotl-Detector.git
@@ -25,6 +25,6 @@ This is the Official Page for the Blue Axolotl Detector Mod. This mod was made i
    ```
 File will be in /build/libs/
 
-# Usage 
+## Usage 
 
 This mod implements a /bad (blueaxolotldetector) command to the game that scans for a blue axolotl around the player. The /bad command also works on servers too for all releases.
