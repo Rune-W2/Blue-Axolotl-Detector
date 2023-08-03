@@ -1,11 +1,6 @@
 # Blue-Axolotl-Detector-1.20.1
-
+Simple mod that adds a /bad (blue axolotl detector) command into the game that scans for any blue axolotl's around the player and will send a private message to the player if it detects a blue axolotl.
 This is the Official Page for the Blue Axolotl Detector Mod. This mod was made in collaboration with iiqv at https://github.com/iiqv.
-This mod is our first Minecraft mod that we've worked on and it is currently in development.
-
-# About
-
-The mod is a simple mod that adds a /bad (blue axolotl detector) command into the game that scans for any blue axolotl's around the player and will send a private message to the player if it detects a blue axolotl.
 
 # Building from source
 1. Clone the repository
