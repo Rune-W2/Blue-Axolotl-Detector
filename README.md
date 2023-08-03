@@ -9,7 +9,7 @@ The mod is a simple mod that adds a /bad (blue axolotl detector) command into th
 
 # Building from source
 
-Clone this repository and run ./gradlew build. The .jar file will be in Blue-Axolotl-Detector-1.20.X/build/libs.
+Clone this repository and run ./gradlew build. The .jar file will be in /build/libs.
 
 # Usage 
 
