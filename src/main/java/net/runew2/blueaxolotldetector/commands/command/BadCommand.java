@@ -69,7 +69,7 @@ public class BadCommand {
     private static void startScanning(FabricClientCommandSource source, double radius) {
         scanning = true;
         scanRadius = radius;
-        source.sendFeedback(Text.of("Scanning for blue axolotls in radius " + radius + " every 3 seconds. Use '/bad stop' to stop scanning."));
+        source.sendFeedback(Text.of("Scanning for blue axolotls in radius " + radius + " every 3 seconds. \n Use '/bad stop' to stop scanning.\n You will be notified when one is found"));
 
         scanTimer = new Timer();
         scanTimer.schedule(new TimerTask() {
