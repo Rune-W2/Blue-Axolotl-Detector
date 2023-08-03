@@ -8,7 +8,9 @@ This mod is our first Minecraft mod that we've worked on and it is currently in 
 The mod is a simple mod that adds a /bad (blue axolotl detector) command into the game that scans for any blue axolotl's around the player and will send a private message to the player if it detects a blue axolotl.
 
 # Building from source
-
+1. Clone the repository
+   `https://github.com/Rune-W2/Blue-Axolotl-Detector.git`
+   `cd Blue-Axolotl-Detector`
 Clone this repository and run ./gradlew build. The .jar file will be in /build/libs.
 
 # Usage 
