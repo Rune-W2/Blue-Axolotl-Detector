@@ -1,10 +1,10 @@
 package net.runew2.blueaxolotldetector;
 
+import net.runew2.blueaxolotldetector.commands.command.BadCommand;
 import com.mojang.brigadier.CommandDispatcher;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.client.command.v2.ClientCommandRegistrationCallback;
 import net.fabricmc.fabric.api.client.command.v2.FabricClientCommandSource;
-import net.runew2.blueaxolotldetector.commands.command.BadCommand;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -14,7 +14,6 @@ public class BlueAxolotlDetector implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		LOGGER.info("Hello Fabric world!");
 		ClientCommandRegistrationCallback.EVENT.register(BlueAxolotlDetector::registerCommands);
 	}
 
