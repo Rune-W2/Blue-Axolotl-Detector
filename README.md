@@ -17,6 +17,7 @@ The mod is a simple mod that adds a /bad (blue axolotl detector) command into th
    ```
    ./gradlew build
    ```
+File will be in /build/libs/
 
 # Usage 
 
