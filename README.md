@@ -5,9 +5,9 @@ Simple 1.20.1 mod that adds a /bad (blue axolotl detector) command into the game
 1. Download and run the [Fabric installer](https://fabricmc.net/use).
    - Select 1.20.1 from the versions list.
 1. Download the [Fabric API](https://minecraft.curseforge.com/projects/fabric)
-  for version 1.20.1 and move it to the mods folder (`.minecraft/mods`).
+  for version 1.20.1 and move it to the mods folder (`C:\Users\<User>\AppData\Roaming\.minecraft\mods`). Create a mods folder if there isn't one.
 1. Download Blue-Axolotl-Detector from the [releases page](https://github.com/Rune-W2/Blue-Axolotl-Detector/releases)
-   and move it to the mods folder (`.minecraft/mods`).
+   and move it to the mods folder (`C:\Users\<User>\AppData\Roaming\.minecraft\mods`).
 
 ## Building from source
 1. Clone the repository
