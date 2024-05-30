@@ -43,7 +43,7 @@ The syntax is `/bad <start/stop> <radius>`.
 1. Edit the code
 1. After testing in the IDE, build a JAR to test whether it works outside the IDE too
    ```
-   ./gradlew build
+   gradlew build
    ```
    The mod JAR may be found in the `build/libs` directory
 1. [Create a pull request](https://help.github.com/en/articles/creating-a-pull-request)
