@@ -35,9 +35,8 @@ The syntax is `/bad <start/stop> <radius>`.
    ```
 1. Generate the Minecraft source code
    ```
-   ./gradlew genSources
+   gradlew genSources
    ```
-   - Note: on Windows, use `gradlew` rather than `./gradlew`.
 1. Import the project into your preferred IDE.
    1. If you use IntelliJ (the preferred option), you can simply import the project as a Gradle project.
    1. If you use Eclipse, you need to `./gradlew eclipse` before importing the project as an Eclipse project.
