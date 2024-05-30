@@ -20,7 +20,7 @@
    ```
    gradlew build
    ```
-   - Note: on Windows, use `gradlew` rather than `./gradlew`.
+   - Note: Linux & MacOS use `./gradlew` rather than `gradlew`.
   
 File will be in /build/libs/
 
