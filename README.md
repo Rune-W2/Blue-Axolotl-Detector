@@ -27,7 +27,7 @@ The syntax is `/bad <start/stop> <radius>`.
   
 File will be in /build/libs/
 
-PLEASE CREDIT ME IN ANY PROJECTS THAT USE THIS MOD.
+THIS WORK FALLS UNDER THE MIT LICENSE. PLEASE CREDIT ME IN ANY PROJECTS THAT USE THIS MOD.
 
 ## Contributing
 1. Clone the repository
