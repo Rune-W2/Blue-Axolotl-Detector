@@ -10,6 +10,9 @@
 1. Download Blue-Axolotl-Detector from the [releases page](https://github.com/Rune-W2/Blue-Axolotl-Detector/releases)
    and move it to the mods folder (`C:\Users\<User>\AppData\Roaming\.minecraft\mods`).
 
+## Usage 
+The syntax is `/bad <start/stop> <radius>`.
+
 ## Building from source
 1. Clone the repository
    ```
@@ -24,8 +27,7 @@
   
 File will be in /build/libs/
 
-## Usage 
-The syntax is `/bad <start/stop> <radius>`.
+PLEASE CREDIT ME IN ANY PROJECTS THAT USE THIS MOD.
 
 ## Contributing
 1. Clone the repository
